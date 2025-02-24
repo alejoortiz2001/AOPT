@@ -255,3 +255,14 @@ Responses:
   - Alejandro believes in combining innovation, efficiency, and creativity to drive success in both his academic pursuits and his entrepreneurial endeavors.
 Context:
   - 
+  Tag: family
+Patterns:
+  - Tell me about Alejandro's family.
+  - Who are his parents?
+  - What does Alejandro's family look like?
+  - Can you tell me about his family?
+Responses:
+  - His father is Jose Bernardo Ortiz, his mother is Claudia Bandy, and he has two sisters, Janeth and Mikaela Ortiz.
+  - Alejandro's family includes his dad, Jose Bernardo Ortiz, his mom, Claudia Bandy, and two sisters, Janeth and Mikaela Ortiz.
+Context:
+  - 

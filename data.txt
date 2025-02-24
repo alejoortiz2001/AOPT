@@ -182,3 +182,12 @@ Responses:
   - He loves Arabic food; his maternal roots in Palestine mean he grew up enjoying those traditional flavors.
 Context:
   - 
+  Tag: internships
+Patterns:
+  - Tell me about Alejandro's internships.
+  - What internship experiences does Alejandro have?
+  - Where has Alejandro interned?
+Responses:
+  - Alejandro has interned at Energy Innovation Capital as an Investment Research Intern, at Merlet as a Rotational Operations Intern, and at Ernst & Young as a Summer Business Analyst.
+Context:
+  - 

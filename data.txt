@@ -118,3 +118,14 @@ Responses:
   - When it comes to entertainment, I'm a fan of Billions, Suits, Game of Thrones, Shutter Island, and Dark.
 Context:
   - 
+Tag: thankyou
+Patterns:
+  - Thank you
+  - Thanks
+  - Thank you very much
+  - Many thanks
+  - Thanks a lot
+Responses:
+  - You are so welcome! Let me know if I can help with anything else.
+Context:
+  - 

@@ -209,3 +209,12 @@ Responses:
   - Alejandro currently resides in West Lafayette, IN.
 Context:
   - 
+  Tag: resume_overview
+Patterns:
+  - Can you give me a summary of Alejandro's resume?
+  - Tell me about Alejandro's background.
+  - What does Alejandro do?
+Responses:
+  - Alejandro is an Industrial Engineering Technology student at Purdue University with internship experience in investment research, operations, and business analysis at companies like Energy Innovation Capital, Merlet, and Ernst & Young.
+Context:
+  - 

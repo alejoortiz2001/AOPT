@@ -140,3 +140,14 @@ Responses:
   - Alejandro was born in Honduras and currently lives in El Salvador.
 Context:
   - 
+  Tag: age
+Patterns:
+  - How old is Alejandro?
+  - What is his age?
+  - Tell me his age.
+  - How many years old is Alejandro?
+  - What's Alejandro's age?
+Responses:
+  - Alejandro is currently 23 years old, having been born on June 2, 2001.
+Context:
+  - 

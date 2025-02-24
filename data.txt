@@ -226,6 +226,5 @@ Patterns:
   - What is he working on right now?
 Responses:
   - Alejandro is the co-founder of Prism Entertainment, an event company that specializes in designing and producing innovative events for both corporate and social gatherings. He is also a current student at Purdue University.
-  - He leads Prism Entertainment, where the company creates unique, engaging events blending creativity with technology, while he pursues his studies at Purdue University.
 Context:
   - 

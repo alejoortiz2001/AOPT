@@ -228,3 +228,12 @@ Responses:
   - Alejandro is the co-founder of Prism Entertainment, an event company that specializes in designing and producing innovative events for both corporate and social gatherings. He is also a current student at Purdue University.
 Context:
   - 
+  Tag: international_experience
+Patterns:
+  - Tell me about Alejandro's international background.
+  - Does Alejandro have experience living abroad?
+  - What is his international experience?
+Responses:
+  - Alejandro was born in Honduras, lived in El Salvador, and is currently studying at Purdue University in the United States. This diverse background gives him a unique international perspective.
+Context:
+  - 

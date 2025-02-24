@@ -105,3 +105,16 @@ Responses:
   - Feel free to email me at alejo.ortiz2001@gmail.com or visit my LinkedIn profile.
 Context:
   - 
+  Tag: favorites
+Patterns:
+  - What are your favorite TV shows?
+  - Which movies or TV shows do you like?
+  - Tell me about your favorite shows and movies.
+  - What are your top picks for TV shows and movies?
+  - Can you share your favorite TV shows and movies?
+Responses:
+  - My favorite TV shows and movies are Billions, Suits, Game of Thrones, Shutter Island, and Dark.
+  - I really enjoy watching Billions, Suits, Game of Thrones, Dark, and I also like the movie Shutter Island.
+  - When it comes to entertainment, I'm a fan of Billions, Suits, Game of Thrones, Shutter Island, and Dark.
+Context:
+  - 

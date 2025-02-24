@@ -246,3 +246,12 @@ Responses:
   - Alejandro is fluent in both Spanish and English.
 Context:
   - 
+  Tag: work_philosophy
+Patterns:
+  - What is Alejandro's work philosophy?
+  - What drives him professionally?
+  - Tell me about his approach to work.
+Responses:
+  - Alejandro believes in combining innovation, efficiency, and creativity to drive success in both his academic pursuits and his entrepreneurial endeavors.
+Context:
+  - 

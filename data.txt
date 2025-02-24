@@ -151,3 +151,13 @@ Responses:
   - Alejandro is currently 23 years old, having been born on June 2, 2001.
 Context:
   - 
+  Tag: birthdate
+Patterns:
+  - When is Alejandro's birthday?
+  - When was Alejandro born?
+  - What's Alejandro's birthdate?
+  - Tell me about his birthday.
+Responses:
+  - He was born on June 2, 2001.
+Context:
+  - 

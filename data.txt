@@ -237,3 +237,12 @@ Responses:
   - Alejandro was born in Honduras, lived in El Salvador, and is currently studying at Purdue University in the United States. This diverse background gives him a unique international perspective.
 Context:
   - 
+  Tag: languages
+Patterns:
+  - What languages does Alejandro speak?
+  - Is Alejandro bilingual?
+  - Can Alejandro speak Spanish and English?
+Responses:
+  - Alejandro is fluent in both Spanish and English.
+Context:
+  - 

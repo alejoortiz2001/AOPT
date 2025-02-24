@@ -161,3 +161,13 @@ Responses:
   - He was born on June 2, 2001.
 Context:
   - 
+  Tag: relationship
+Patterns:
+  - Is Alejandro in a relationship?
+  - Does Alejandro have a girlfriend?
+  - What's Alejandro's relationship status?
+  - Tell me about Alejandro's personal life.
+Responses:
+  - He has a girlfriend.
+Context:
+  - 

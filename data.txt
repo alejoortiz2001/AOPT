@@ -200,3 +200,12 @@ Responses:
   - You can reach Alejandro at alejo.ortiz2001@gmail.com or connect with him on LinkedIn.
 Context:
   - 
+  Tag: location
+Patterns:
+  - Where does Alejandro live?
+  - What's Alejandro's current location?
+  - Where is Alejandro based?
+Responses:
+  - Alejandro currently resides in West Lafayette, IN.
+Context:
+  - 

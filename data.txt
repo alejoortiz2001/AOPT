@@ -191,3 +191,12 @@ Responses:
   - Alejandro has interned at Energy Innovation Capital as an Investment Research Intern, at Merlet as a Rotational Operations Intern, and at Ernst & Young as a Summer Business Analyst.
 Context:
   - 
+  Tag: contact
+Patterns:
+  - How can I contact Alejandro?
+  - What's Alejandro's email?
+  - How do I reach Alejandro?
+Responses:
+  - You can reach Alejandro at alejo.ortiz2001@gmail.com or connect with him on LinkedIn.
+Context:
+  - 

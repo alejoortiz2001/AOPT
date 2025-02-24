@@ -129,3 +129,14 @@ Responses:
   - You are so welcome! Let me know if I can help with anything else.
 Context:
   - 
+  Tag: origin
+Patterns:
+  - Where is Alejandro from?
+  - Where is he from?
+  - Tell me where Alejandro is from.
+  - What's Alejandro's origin?
+  - Where does Alejandro come from?
+Responses:
+  - Alejandro was born in Honduras and currently lives in El Salvador.
+Context:
+  - 

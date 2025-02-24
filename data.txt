@@ -218,3 +218,14 @@ Responses:
   - Alejandro is an Industrial Engineering Technology student at Purdue University with internship experience in investment research, operations, and business analysis at companies like Energy Innovation Capital, Merlet, and Ernst & Young.
 Context:
   - 
+  Tag: current_role
+Patterns:
+  - What does Alejandro currently do?
+  - What is Alejandro's current role?
+  - Tell me about Alejandro's current occupation.
+  - What is he working on right now?
+Responses:
+  - Alejandro is the co-founder of Prism Entertainment, an event company that specializes in designing and producing innovative events for both corporate and social gatherings. He is also a current student at Purdue University.
+  - He leads Prism Entertainment, where the company creates unique, engaging events blending creativity with technology, while he pursues his studies at Purdue University.
+Context:
+  - 

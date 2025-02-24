@@ -171,3 +171,14 @@ Responses:
   - He has a girlfriend.
 Context:
   - 
+  Tag: favorite_food
+Patterns:
+  - What is Alejandro's favorite food?
+  - What's his favorite food?
+  - Tell me his favorite food.
+  - What food does Alejandro like the most?
+Responses:
+  - His favorite food is Arabic cuisine because his family from his mom's side is originally from Palestine, and he grew up eating it.
+  - He loves Arabic food; his maternal roots in Palestine mean he grew up enjoying those traditional flavors.
+Context:
+  - 
